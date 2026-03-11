@@ -1,0 +1,3 @@
+# Ignore agent workspace and configuration files
+.agents/
+*.agent
