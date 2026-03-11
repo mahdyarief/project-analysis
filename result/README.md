@@ -29,7 +29,7 @@ result/
 | File | Purpose |
 |------|---------|
 | `00_project_overview.md` | High-level understanding: what the product is, who uses it, key assumptions, open questions |
-| `00_figma_analysis.md` | Figma specific findings, UI/UX constraints, and design rules directly from the master UI files |
+| `00_figma_analysis.md` | Figma specific findings, UI/UX constraints, design rules, and a **deep page-by-page feature breakdown** extracted directly from the master UI files |
 | `01_epic_list.md` | Epics only — grouped by domain. Each epic has a short description and scope |
 | `02_backlog_tasks.md` | All user stories/tasks split into **Frontend**, **Backend**, **Wiring/Integration** layers with SP estimates |
 | `03_sprint_plan.md` | Sprint 1 (Foundation) and Sprint 2 (Value Delivery) with velocity targets and goals |

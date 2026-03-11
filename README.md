@@ -27,7 +27,8 @@ The system is powered by the `pm-planner.agent`, enhanced by a suite of modular 
 | Skill | Directory | Description & Capabilities |
 |-------|-----------|---------------------------|
 | **PDF Mastery** | `.agents/skills/pdf-mastery/` | Automates the ingestion of standard PDF specification documents. Uses a Python script (`extract_pdfs.py`) via CLI to crawl a specific project folder and dump the text contents into JSON for the AI to read. |
-| **Figma Integration** | `.agents/skills/figma-integration/` | If the AI detects a `figmaLink.md` file in a project folder, it utilizes the **Figma MCP Server** to autonomously read the live master design file. It extracts user stories, developer handoff comments, and frame configurations *before* writing any tasks to ensure design constraints are respected. |
+| **Figma Integration** | `.agents/skills/figma-integration/` | If the AI detects a `figmaLink.md` file in a project folder, it utilizes the **Figma MCP Server** to autonomously read the live master design file. It retrieves the document tree to perform a **deep page-by-page feature breakdown**, extracts user stories, and developer handoff comments *before* writing any tasks to ensure flawless coverage. |
+| **Jira Integration** | `.agents/skills/jira-integration/` | Automates the injection of the generated `06_jira_import_ready.csv` backlog directly into your Atlassian Jira Cloud account natively using the REST APIs via an auth-secured Python script (`import_to_jira.py`). |
 
 ### 3. Execution Workflow
 * **`pm_project_kickoff.md`**: Located in `.agents/workflows/`. This is the strict Standard Operating Procedure (SOP). It forces the AI to execute standard discovery (PDF scripts + Figma MCP), sequentially generate the 9 standard PM deliverables, and compile a final native Jira `.csv` upload file.

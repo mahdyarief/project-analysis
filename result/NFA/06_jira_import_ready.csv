@@ -1,0 +1,38 @@
+Issue Type,Summary,Description,Priority,Epic Link,Story Points,Sprint
+Epic,Core Infrastructure Security & Auth,Establish the foundational backend architecture and authentication flows,Highest,,,
+Epic,Global Admin Console,Build the dashboard where Super Admins govern the network,High,,,
+Epic,Head Office Hub & Business Intelligence,Develop the web portal tailored for regional Head Office managers,High,,,
+Epic,Stock & Supply Chain Provisioning,Implement flow for managing warehouse stock and transfers,High,,,
+Epic,The InDesign Template Engine,Create engine allowing Head Offices to upload and map tags,Medium,,,
+Epic,Multi-Tier Ordering & E-Commerce,Build cart logic and checkout pipeline (Stripe SEPA),Highest,,,
+Epic,Mobile Store Experience,Develop the iOS/Android mobile app for Store Managers,High,,,
+Task,[BE] Setup PostgreSQL database schema & user relations,Establish primary relational structure mapping Admin/HO/Store,Highest,Core Infrastructure Security & Auth,5,Sprint 1
+Task,[BE] Setup JWT Authentication Service & Role guards,API endpoints and middleware verifying JWT payloads,High,Core Infrastructure Security & Auth,5,Sprint 1
+Task,[BE] Implement SendGrid OTP generation API for Mobile,OTP code generation and verification hooks,High,Core Infrastructure Security & Auth,3,Sprint 1
+Task,[FE] Develop Admin Web Login UI,React.js view for Admin login containing valid email/password fields,High,Core Infrastructure Security & Auth,2,Sprint 1
+Task,[FE] Develop HO Web Login UI,Head office login with Forgot Password flow,High,Core Infrastructure Security & Auth,3,Sprint 1
+Task,[FE] Develop Mobile Login UI,Mobile App screen for Email input and OTP challenge,High,Core Infrastructure Security & Auth,3,Sprint 1
+Task,[WIRE] Integrate Admin & HO Auth APIs with frontend state,Redux/Zustand implementation of session tracking,Highest,Core Infrastructure Security & Auth,3,Sprint 1
+Task,[WIRE] Integrate Mobile OTP flow & handle token storage,Secure storage of mobile tokens after OTP verify,High,Core Infrastructure Security & Auth,3,Sprint 1
+Task,[BE] Develop CRUD endpoints for Head Offices and Global Products,REST API setup for global network elements,High,Global Admin Console,5,Sprint 1
+Task,[BE] Develop CRUD endpoints for Suppliers,REST API to manage global suppliers with country filters,Medium,Global Admin Console,3,Sprint 1
+Task,[FE] Develop Admin Layout Nav and Global Orders Data Table,Shell layout setup and primary data grid for global scope orders,High,Global Admin Console,3,Sprint 1
+Task,[FE] Develop Head Office page,Drawers and Archive modal logic for managing HOs,High,Global Admin Console,3,Sprint 1
+Task,[FE] Develop Product page,Pagination and Heavy image upload drawer flows,Medium,Global Admin Console,5,Sprint 1
+Task,[FE] Develop Supplier page,Simple table and creation modale UI,Low,Global Admin Console,2,Sprint 1
+Task,[WIRE] Wire all Admin CRUD pages to API,State management for pagination search and skeleton loaders,Highest,Global Admin Console,8,Sprint 1
+Task,[BE] Build Inventory ledger API,Endpoints managing stock in/out and discrete transfers,High,Stock & Supply Chain Provisioning,8,Sprint 1
+Task,[FE] Develop Stock Table UI,Data grid demonstrating value metrics and held units,Medium,Stock & Supply Chain Provisioning,3,Sprint 1
+Task,[BE] Develop Dashboard aggregated KPI endpoints,Advanced SQL for total spend top templates and eShop adoption,High,Head Office Hub & Business Intelligence,8,Sprint 2
+Task,[FE] Develop HO Dashboard Layout,Widgets and Side Drawers mapping to the KPIs,High,Head Office Hub & Business Intelligence,5,Sprint 2
+Task,[FE] Develop Orders with Issues widget,UI block and empty/error state handling on the dashboard,Medium,Head Office Hub & Business Intelligence,2,Sprint 2
+Task,[FE] Develop Store Management page,Massive table setup and 3-part wizard creation form,High,Head Office Hub & Business Intelligence,5,Sprint 2
+Task,[WIRE] Integrate HO Dashboard charts/tables with aggregations API,Data fetching and hydration of the Head Office dashboard,High,Head Office Hub & Business Intelligence,5,Sprint 2
+Task,[WIRE] Wire Store Management CRUD to frontend layout,Connecting Store APIs to HO Store table UI,High,Head Office Hub & Business Intelligence,5,Sprint 2
+Task,[BE] Setup Stripe API Customer instances and SEPA Mandate hooks,Webhooks and customer provisioning for checkout,Highest,Multi-Tier Ordering & E-Commerce,8,Sprint 2
+Task,[BE] Develop Cart & Ordering Core Engine,Backend ledger for calculating subTotal shipping and final total,Highest,Multi-Tier Ordering & E-Commerce,8,Sprint 2
+Task,[BE] Develop Catalogue API,Endpoints serving standard physical items versus printable templates,Medium,Multi-Tier Ordering & E-Commerce,5,Sprint 2
+Task,[FE] Develop Cart UI,Subtotals destination changers calculations and strict checkout constraints,High,Multi-Tier Ordering & E-Commerce,5,Sprint 2
+Task,[FE] Develop Catalogue Table,Product grid categories filters and detail viewing drawer,Medium,Multi-Tier Ordering & E-Commerce,5,Sprint 2
+Task,[WIRE] Wire HO and Mobile catalogue data,Connect Cart state arrays and synchronize DB catalogues,Highest,Multi-Tier Ordering & E-Commerce,8,Sprint 2
+Task,[WIRE] Connect checkout action to Stripe SEPA charge endpoint,Execute raw Stripe API payload on confirm order click,Highest,Multi-Tier Ordering & E-Commerce,5,Sprint 2
