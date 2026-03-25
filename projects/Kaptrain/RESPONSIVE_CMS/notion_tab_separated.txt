@@ -1,0 +1,109 @@
+T-01 Log In	Onboarding
+T-02 Sign Up	Onboarding
+T-03 Overview Athlètes	Tableau de bord
+T-04 Mensuel	Tableau de bord
+T-05 Annuel	Tableau de bord
+T-06 Mettre À Niveau Votre Abonnement Kaptrain	Tableau de bord
+T-07 Annulation De L’Abonnement	Tableau de bord
+T-08 Sidebar Menu	Athletes Tab
+T-09 Bottom Drawer	Athletes Tab
+T-10 Athlete List	Athletes Tab
+T-11 Entrainements À Venir	Athletes Tab
+T-12 Notifications D’Athlètes	Athletes Tab
+T-13 Filtrer Par	Athletes Tab
+T-14 Message	Athletes Tab
+T-15 Inviter Des Athlètes	Athletes Tab
+T-16 Planification	Athletes Tab
+T-17 Publier Ce Jour	Athletes Tab
+T-18 Planification - Calendar View	Athletes Tab
+T-19 Planification - Date Filter	Athletes Tab
+T-20 Planification - Note De Planning	Athletes Tab
+T-21 Planification Training Panel	Creer une seance
+T-22 Planification Training Panel - Delete Training	Creer une seance
+T-23 Planification Training Panel - Confirmation	Creer une seance
+T-24 Publier Des Jours Spécifiques	Creer une seance
+T-25 Tout Sélectionner	Creer une seance
+T-26 Thématique	Creer une seance
+T-27 Nom De La Séance	Creer une seance
+T-28 Ajouter Un Bloc	Creer une seance
+T-29 Ajouter Les Exercices	Creer une seance
+T-30 Choisis Une Référence D’Intensité	Creer une seance
+T-31 Vitesse (% VMA)	Creer une seance
+T-32 VMA De Référence : 16,5 km/h	Creer une seance
+T-33 Modifier La Séance	Creer une seance
+T-34 Informations Complémentaires	Creer une seance
+T-35 Tout Effacer	Creer une seance
+T-36 Exercices Associés	Creer une seance
+T-37 Supprimer La Séance	Creer une seance
+T-38 Annuler	Creer une seance
+T-39 Retour	Creer une seance
+T-40 Modèles De Blocs D’Entrainements	Creer une seance
+T-41 Créer Un Modèle De Cycle	Gestion des cycles d’entrainements
+T-42 Recherche Un Sport	Gestion des cycles d’entrainements
+T-43 Prévisualiser	Gestion des cycles d’entrainements
+T-44 Prépa Force 5 Semaines	Gestion des cycles d’entrainements
+T-45 Répartition D’Activité	Athlete Dashboard
+T-46 Répartition Par Heure	Athlete Dashboard
+T-47 Mes Notes	Athlete Dashboard
+T-48 Aujourd’hui - Editor	Athlete Dashboard
+T-49 Blessure(s)	Athlete Dashboard
+T-50 Déchirure Épaule Droite	Athlete Dashboard
+T-51 Modifier La Blessure	Athlete Dashboard
+T-52 Records	Athlete Dashboard
+T-53 Musculation	Athlete Dashboard
+T-54 Press - Squat Nuque	Athlete Dashboard
+T-55 Bibliothèque - Filter	Section : Exercices
+T-56 Bibliothèque - Favoris	Section : Exercices
+T-57 Bibliothèque - Trier Par	Section : Exercices
+T-58 Détails Pages	Section : Exercices
+T-59 Instructions Pages	Section : Exercices
+T-60 Matériels	Section : Exercices
+T-61 Sports - Tout Effacer	Bibliothèques - Filtres
+T-62 Tour Effacer - Rechercher	Bibliothèques - Filtres
+T-63 Tout Effacer - Thématiques	Bibliothèques - Filtres
+T-64 Tout Effacer - Matériels	Bibliothèques - Filtres
+T-65 Tout Effacer - Sélectionne Le(s) Muscle(s) À Filtrer	Bibliothèques - Filtres
+T-66 Tout Effacer - Liste	Bibliothèques - Filtres
+T-67 Library	Bibliothèques - Filtres
+T-68 Create A Training Cycle	Bibliothèques - Filtres
+T-69 5-week Strength Training	Bibliothèques - Filtres
+T-70 Renforcement Général – 4 Semaines	Bibliothèques - Filtres
+T-71 Bibliothèque - Nouveau Modèle	Bibliothèques - Filtres
+T-72 Bibliothèque - Ajouter Un Bloc	Bibliothèques - Filtres
+T-73 Conversations List	Messages Tab
+T-74 Conversations Details	Messages Tab
+T-75 Mes Programmations	Training Program Coach
+T-76 Créer Une Programmation	Training Program Coach
+T-77 Modifier Un Programme	Training Program Coach
+T-78 Publier Ce Jour	Training Program Coach
+T-79 Mes Programmations - Programmations	Admins Training Programs
+T-80 Créer Un Nouveau Programme	Admins Training Programs
+T-81 Créer Une Programmation	Admins Training Programs
+T-82 Information Personnelles	Mes informations
+T-83 Detail Modifier Mes Informations	Mes informations
+T-84 Modifier Mon Mot De Passe	Mes informations
+T-85 Supprimer Mon Compte	Mes informations
+T-86 Modifier La Photo De Profil	Mes informations
+T-87 Modifier La Photo De Profil - Pivoter	Mes informations
+T-88 Modifier La Photo De Profil - Supprimer La Photo	Mes informations
+T-89 Administration	Administration
+T-90 User Infos	Administration
+T-91 Renseigne Les Informations Du Coach	Administration
+T-92 Gestion Des Abonnements	Administration
+T-93 Exercices	Administration
+T-94 Créer Un Exercice	Administration
+T-95 Recherche Un Sport	Administration
+T-96 Excercise Detail	Administration
+T-97 Excercise Instructions	Administration
+T-98 Administration Matériels	Administration
+T-99 Modifier Un Matériel	Administration
+T-100 Supprimer Le matériel ?	Administration
+T-101 Sports	Administration
+T-102 Modifier Un Sport	Administration
+T-103 Abonnements	Administration
+T-104 Créer Un Abonnement	Administration
+T-105 Records	Administration
+T-106 Records Apnée	Administration
+T-107 Ajouter Un Record	Administration
+T-108 Ajouter Une Catégorie - Annuler	Administration
+T-109 Sélectionne L’Unité Correspondante	Administration

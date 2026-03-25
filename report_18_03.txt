@@ -1,0 +1,56 @@
+# Kaptrain Project Progress Status (18-03-2026)
+
+## Overall Progress Summary
+Total Tasks: 223
+- **Done**: 126 tasks (56.5%)
+- **In Testing (Staging)**: 59 tasks (26.5%)
+- **To Do**: 19 tasks (8.5%)
+- **In Progress**: 13 tasks (5.8%)
+- **Review Needed**: 4 tasks (1.8%)
+- **In Testing**: 2 tasks (0.9%)
+
+## 📱 CMS Responsive Progress
+Total CMS Responsive Tasks: 29
+- **Done**: 0 (0.0%)
+- **Testing**: 0 (0.0%)
+- **In Progress**: 10 (34.5%)
+
+### Key CMS Responsive Tasks:
+- TR - 003 Gestion d’abonnement (**To Do**)
+- TR - 023 Mes informations (**To Do**)
+- TR - 028 Abonnements (Admin) (**To Do**)
+- TR - 001 Onboarding (**To Do**)
+- TR - 010 Création de bloc (**To Do**)
+- TR - 011 Modification de séance (**To Do**)
+- TR - 014 Athlete Dashboard (**To Do**)
+- TR - 021 Training Program Coach (**In Progress**)
+- TR - 004 Consulter mes athlètes (**In Progress**)
+- TR - 020 Messages Tab (**To Do**)
+- TR - 005 Ajouter un athlète (**Review Needed**)
+- TR - 026 Matériels (Admin) (**To Do**)
+- TR - 013 Gestion des cycles d’entrainements (**To Do**)
+- TR - 027 Sports (Admin) (**To Do**)
+- TR - 012 Suppression de séance (**To Do**)
+- TR - 029 Records (Admin) (**To Do**)
+- TR - 019 Bibliothèques - Filtres- Section 3 & 4 (**In Progress**)
+- TR - 015 Exercices library (**In Progress**)
+- TR - 002 Consulter mes athlètes (**To Do**)
+- TR - 008 Planification mois (**To Do**)
+
+## 🚩 High Priority Feedback
+Total High Priority: 15
+- Agenda — Week view scrolls globally instead of per-column scroll [**New**] (Functional)
+- Agenda — Header grouped actions zone does not match expected design [**New**] (Functional)
+- Problem library (different blocs library) [**New**] (Functional)
+- Wellness score calcul and curves [**In progress**] (Functional)
+- Tag wellness score [**In progress**] (Functional)
+- Agenda — Session drag & drop not working [**New**] (Functional)
+- Agenda — Exercise blocks not displayed on session card (Week view) [**New**] (Functional)
+- Wellness indicator curves  [**New**] (Functional)
+- Agenda — Application crash when switching to Month view [**In progress**] (Functional)
+- Wellness tracking curve  [**In progress**] (Functional)
+- Agenda — Planning notes: multi-day span not working [**New**] (Functional)
+- Agenda — Intermediate yellow calendar icon not specified — must be removed [**In progress**] (Visual)
+- Principal Wellness curve  [**New**] (Functional)
+- Agenda — Session card visual states do not match Figma specs [**New**] (Visual)
+- Agenda (Homepage) [**New**] (Functional)

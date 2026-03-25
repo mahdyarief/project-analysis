@@ -1,0 +1,7 @@
+• Core Infrastructure: FE In Progress: 33% | BE In Progress: 67% | Wired In Progress: 0%
+• E-Commerce: FE In Progress: 100% | BE In Progress: 33% | Wired In Progress: 0%
+• Global Admin Console: FE In Progress: 100% | BE In Progress: 100% | Wired In Progress: 100%
+• HO Hub: FE In Progress: 67% | BE In Progress: 100% | Wired In Progress: 0%
+• InDesign Engine: FE In Progress: 67% | BE In Progress: 0% | Wired In Progress: 0%
+• Mobile Store Exp: FE In Progress: 0% | BE In Progress: 0% | Wired In Progress: 0%
+• Supply Chain: FE In Progress: 100% | BE In Progress: 0% | Wired In Progress: 0%

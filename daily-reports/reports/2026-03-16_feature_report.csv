@@ -1,0 +1,15 @@
+Feature Module,Done,Testing,In Progress,Short Description
+Sign In & Registration,21,3,0,"Cannot log out after email verification, Update checklist in email field - Lo..."
+Coach/Athlete Invitation,2,1,0,"The coach couldn’t invite the user, Invitations, Invitation Code Coach"
+Sports (Master/Selection),5,1,0,"Cannot create Sports, Sélectionner mes sports favoris (User Information), My ..."
+Records,1,2,0,"Index Mes Record, My records, Records (admin) Integration"
+Injuries & Muscle Map,1,3,0, CMS : I should be able to click directly on the human body to select muscles...
+Subscriptions & Payments,6,2,2,"Coach Free Trial , Slicing UI - Upgrade Plan - CMS, Abonnements (admin) Integ..."
+Wellness Tracking,4,4,0,"APP : Beug slider sleep, Slicing UI - Wellness, Show the daily wellness promp..."
+Chat Feature,0,3,0,"Chats / Messaging, Chats / Messaging, Messenger"
+Mobile Widgets,1,8,0,"Widget - Widget Detail Screen, Widget - Volume d’entraînement, Widget - erreu..."
+Training Programs,11,5,0,"Slicing UI - Programmation & Programme, Cannot create session, Create session..."
+Agenda & Timer,5,3,0,"Slicing UI - Agenda, Agenda - Modification de séance, Stopwatch options"
+Dual Language,0,2,0,"CMS : The English button doesn’t work,  APP : Translate in English not “pain”..."
+Step Count,0,0,0,General module tasks
+UI & System Core,63,29,0,"APP : not as figma (icone white white - angle of the box) , Review Latest SVG..."

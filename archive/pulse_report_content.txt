@@ -1,0 +1,61 @@
+🚀 KAPTRAIN PROJECT PULSE
+Date: 16 March 2026 | Total Scope: 200 Tasks
+
+📈 OVERALL PERFORMANCE
+- ✅ **Done**: 60.0% (120 tasks)
+- 🧪 **Testing**: 33.0% (66 tasks)
+- ⏳ **Pending**: 7.0% (14 tasks)
+
+🎯 FEATURE BREAKDOWN
+
+**Sign In & Reg** [██████████] 100%
+  • Status: 13 Done | 0 Testing | 0 Pending
+  • Focus: Update checklist in email field - Login and Regist Form, The device back button incorrectly redirects the user to the OTP input screen
+
+**Coach/Ath Invitation** [█████▓▓░░░] 50%
+  • Status: 2 Done | 1 Testing | 1 Pending
+  • Focus: The coach couldn’t invite the user, Invitations
+
+**Sports (Master)** [███████▓▓░] 75%
+  • Status: 6 Done | 2 Testing | 0 Pending
+  • Focus: Cannot create Sports, Sélectionner mes sports favoris (User Information)
+
+**Records** [███▓▓▓▓▓▓░] 33%
+  • Status: 1 Done | 2 Testing | 0 Pending
+  • Focus: Index Mes Record, My records
+
+**Injuries** [█████▓▓▓▓▓] 50%
+  • Status: 1 Done | 1 Testing | 0 Pending
+  • Focus: Update Muscle-map , Profile - Injuries
+
+**Subscriptions** [█████▓▓░░░] 55%
+  • Status: 5 Done | 2 Testing | 2 Pending
+  • Focus: Coach Free Trial , Abonnements (admin) Integration
+
+**Wellness Tracking** [█████▓▓▓▓▓] 50%
+  • Status: 4 Done | 4 Testing | 0 Pending
+  • Focus: APP : Beug slider sleep, Slicing UI - Wellness
+
+**Chat Feature** [██▓▓▓▓▓░░░] 28%
+  • Status: 2 Done | 4 Testing | 1 Pending
+  • Focus: Incorrect error message for mandatory field, Chats / Messaging
+
+**Mobile Widgets** [█▓▓▓▓▓▓░░░] 12%
+  • Status: 1 Done | 5 Testing | 2 Pending
+  • Focus: Widget - Widget Detail Screen, Widget - Volume d’entraînement
+
+**Training Programs** [██████▓▓▓░] 65%
+  • Status: 17 Done | 8 Testing | 1 Pending
+  • Focus: Agenda - Modification de séance, Slicing UI - Programmation & Programme
+
+**Agenda -> Timer** [█████▓▓▓▓▓] 50%
+  • Status: 3 Done | 3 Testing | 0 Pending
+  • Focus: Slicing UI - Agenda, Stopwatch options
+
+**Dual Language** [▓▓▓▓▓▓▓▓▓▓] 0%
+  • Status: 0 Done | 3 Testing | 0 Pending
+  • Focus:  CMS : The muscles are in English even though everything should be in French, CMS : The English button doesn’t work
+
+**Step Count** [▓▓▓▓▓▓▓▓▓▓] 0%
+  • Status: 0 Done | 3 Testing | 0 Pending
+  • Focus: Widget - Daily Steps, Widget - Steps

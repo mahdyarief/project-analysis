@@ -1,0 +1,7 @@
+### 🚧 Frontend (FE) - Tasks Still In Progress
+• **Core Infrastructure**: [FE] Develop HO Web Login UI (Email/Password, Forgot PWD form)
+• **HO Hub**: [FE] Develop Store Management page (Table, 3-part Creation Form, Activity flow)
+• **InDesign Engine**: [FE] Develop Template Details View showing background task generation status
+
+### 📋 Frontend (FE) - New Tasks (Backlog)
+• **Core Infrastructure**: [FE] Develop Mobile Login UI (Email input -> OTP screen)
